@@ -7,5 +7,5 @@
 5.	Word size of ISA and RAM = 16
 6.	CPU Instructions = Register Mode, Immediate Mode, JMP, JL
 
---> Done By Digital
+--> Done By Digital \\
 --> The Final Circuit file is '6 Bit CPU'. Open that file using Digital
