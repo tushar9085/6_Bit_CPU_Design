@@ -1,13 +1,10 @@
-# 6 Bit CPU Design (Computer Architecture)
-
-1.	Word Size of CPU = 6
-2.	ALU Operations = AND, ADD, ROR
-3.	Register Number = 5
-4.	Size of RAM = 10
-5.	Word size of ISA and RAM = 16
-6.	CPU Instructions = Register Mode, Immediate Mode, JMP, JL
-
---> Done By Digital \
---> The Final Circuit file is '6 Bit CPU'. Open that file using Digital
-
-![6 Bit CPU](Circuit Blocks pics/6 Bit CPU.png)
+6-Bit CPU Design (Computer Architecture)
+Key Specifications:
+CPU Word Size: 6 bits
+ALU Operations: AND, ADD, ROR
+Number of Registers: 5
+RAM Size: 10 units
+Word Size (ISA & RAM): 16 bits
+Supported Instructions: Register Mode, Immediate Mode, JMP, JL
+Designed using Digital
+To view the final circuit, open the file 6 Bit CPU using Digital.
