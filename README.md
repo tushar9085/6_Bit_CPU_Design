@@ -9,3 +9,5 @@
 
 --> Done By Digital \
 --> The Final Circuit file is '6 Bit CPU'. Open that file using Digital
+
+(Circuit Blocks pics/6 Bit CPU.png)
